@@ -4,7 +4,7 @@ Upon the release of ALX's System Engineering & DevOps project 0x19, approximatel
 
 ## Debugging Process
 
-Bug debugger Malikencountered the issue upon opening the project and being, well, instructed to
+Bug debugger Malik encountered the issue upon opening the project and being, well, instructed to
 address it, roughly 19:20 PST. He promptly proceeded to undergo solving the problem.
 
 1. Checked running processes using `ps aux`. Two `apache2` processes - `root` and `www-data` -
